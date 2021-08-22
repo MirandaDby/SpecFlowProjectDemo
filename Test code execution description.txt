@@ -1,0 +1,6 @@
+Description to run this solution:
+1. install vs2019
+2. install .net framework 4.8
+3. install packages under dependencies folder to your local.
+4. install specflow for vs 2019
+
